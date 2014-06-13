@@ -12,11 +12,6 @@ Examples of usage:
 
 ## How to use
 
-Gradle dependency:
-```groovy
-compile 'com.romainpiel.shimmer:library:1.2.0@aar'
-```
-
 Add a `ShimmerTextView` to your layout:
 ```xml
 <com.romainpiel.shimmer.ShimmerTextView
